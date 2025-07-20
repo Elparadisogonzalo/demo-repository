@@ -16,4 +16,4 @@ jobs:
       with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: koagonzalo11
-          numOfAssignee: 1000
+          numOfAssignee: 10000
