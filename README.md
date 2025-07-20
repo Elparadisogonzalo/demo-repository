@@ -1,6 +1,6 @@
-![Auto Assign](https://github.com/Elparadisogonzalo/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Auto Assign](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/actions/workflows/auto-assign.yml/badge.svg)
 
-![Proof HTML](https://github.com/Elparadisogonzalo/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![Proof HTML](https://github.com/koagonzalo11/elparadisogonzalo-monorepo/actions/workflows/proof-html.yml/badge.svg)
 # 👋 Welcome to Your Organization's Demo Repository
 
 This repository is a **demonstration of best practices** for using GitHub effectively—designed to be **clean**, **minimal**, and **functional**.
