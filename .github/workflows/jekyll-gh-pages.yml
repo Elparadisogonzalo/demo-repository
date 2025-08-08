@@ -35,7 +35,7 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: elparadisogonzalo.com
+      - name: elparadisogonzalo.github.io
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
